@@ -1,5 +1,5 @@
 # Contents
--[Java 基础](#java-base)
+-[Java 基础](#java基础)
   -[包装类型和基本类](#integer-and-int)
 -[java容器](#java-collection)
   -[常见容器](#common-used)
@@ -20,7 +20,7 @@
 
 系统设计
 
-# java-base
+# java基础
 我们这里就是一些知识啦
 3. 索引列的顺序
 让选择性最强的索引列放在前面。
